@@ -8,4 +8,4 @@ transfer learning.
 
 **Dataset:** PlantVillage Dataset (Kaggle)
 
-**Live app:** [Insert your deployed Streamlit URL here]
+**Live app:** https://tomato-ylcv-classifier-project-kuas7sfka4jrwj5prbee7a.streamlit.app/
