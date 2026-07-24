@@ -9,10 +9,9 @@ precision, recall, and F1-score on the 98-image test set, and was deployed.
 To use the application, a user uploads a photo of a tomato leaf and
 receives an instant "Healthy" or "YLCV" prediction with confidence scores.
 The main challenges were initially training on a CPU runtime before
-switching to a GPU for practical training times, and the near-perfect test
+switching to a GPU, specifically the T4 GPU, for practical training times, and the near-perfect test
 accuracy, which reflects PlantVillage's controlled, consistent image
 conditions rather than guaranteed real-world field performance. A possible
-improvement would be testing on field-captured images and expanding to
-more tomato disease classes.
+improvement would be testing on field-captured images.
 
 <!-- Word count: ~150 words -->
