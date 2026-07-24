@@ -16,14 +16,14 @@ IMAGE_SIZE = (224, 224)
 
 @st.cache_resource
 def load_model():
-    return tf.keras.models.load_model("models/tomato_ylcv_model.keras")
+    return tf.keras.models.load_model("tomato_ylcv_model.keras")
 
 def predict(model, pil_image):
     """Make a prediction and return the label plus per-class probabilities."""
     img = pil_image.convert("RGB").resize(IMAGE_SIZE)
     arr = np.expand_dims(np.array(img, dtype=np.float32), axis=0)
 
-    probs = model.predict(arr, verbose=0)[0]      # softmax output, shape (2,)
+    probs = model.predict(arr, verbose=0)[0]
     pred_idx = int(np.argmax(probs))
     label = DISPLAY_NAMES[CLASS_NAMES[pred_idx]]
 
