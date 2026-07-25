@@ -30,4 +30,5 @@ The contributors to this project will be referenced below:
 enyofx-rgb
 
 • Udo Ofofon Edward 23/EG/EE/053          Fonzyfundz-001
-Bassey, Victor Edet 23/EG/EE/033 Whiinna 
+
+• Bassey Victor Edet 23/EG/EE/033 Whiinna 
