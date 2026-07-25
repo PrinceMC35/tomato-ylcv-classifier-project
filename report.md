@@ -14,4 +14,5 @@ accuracy, which reflects PlantVillage's controlled, consistent image
 conditions rather than guaranteed real-world field performance. A possible
 improvement would be testing on field-captured images.
 
-<!-- Word count: ~150 words -->
+The contributors to this project will be referenced below:
+
