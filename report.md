@@ -18,4 +18,5 @@ The contributors to this project will be referenced below:
 
 • Ogosi Francis Chukwuemeka 23/EG/EE/003 PrinceMC35
 
-• 
+• Bamidele Marvellous Akachukwu 24/EG/EE/253 bamidelem300-commits
+
