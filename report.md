@@ -21,4 +21,5 @@ The contributors to this project will be referenced below:
 • Bamidele Marvellous Akachukwu 24/EG/EE/253 bamidelem300-commits
 
 • Onobo Benjamin Joseph 23/EG/EE/073 Benjamin324-ai
-Iheasimuo Izuchukwu Chamberlain 23/EG/EE/023 BhigBloggs 
+
+• Iheasimuo Izuchukwu Chamberlain 23/EG/EE/023 BhigBloggs 
