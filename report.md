@@ -24,6 +24,7 @@ The contributors to this project will be referenced below:
 
 • Iheasimuo Izuchukwu Chamberlain 23/EG/EE/023 BhigBloggs 
 
-• Okon Stephen Mfon 23/EG/EE/063 Stephen93397
-Makoji Goodness Enyo-ojo 23/EG/EE/093
+• Okon Stephen Mfon 23/EG/EE/063 Stephen933971
+
+• Makoji Goodness Enyo-ojo 23/EG/EE/093
 enyofx-rgb
