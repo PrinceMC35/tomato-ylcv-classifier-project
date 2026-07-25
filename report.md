@@ -28,3 +28,5 @@ The contributors to this project will be referenced below:
 
 • Makoji Goodness Enyo-ojo 23/EG/EE/093
 enyofx-rgb
+
+• Udo Ofofon Edward 23/EG/EE/053          Fonzyfundz-001
