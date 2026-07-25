@@ -16,3 +16,4 @@ improvement would be testing on field-captured images.
 
 The contributors to this project will be referenced below:
 
+Ogosi Francis Chukwuemeka 23/EG/EE/003 Princemc
