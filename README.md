@@ -2,7 +2,7 @@
 
 GET 324 Mini-Project — Group EE8, University of Uyo
 
-Binary image classifier distinguishing healthy tomato leaves from those
+This is a binary image classifier distinguishing healthy tomato leaves from those
 infected with Yellow Leaf Curl Virus (YLCV), using MobileNetV3Small
 transfer learning.
 
