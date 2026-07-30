@@ -38,4 +38,4 @@ enyofx-rgb
 • Edet Andino-uwem Uwem 23/EG/EE/043
 dela-ben
 
-.dang Wisdom Nkpoikanke 23/EG/EE/103
+.Idang Wisdom Nkpoikanke 23/EG/EE/103
